@@ -6,7 +6,7 @@
 
 This demonstration outlines the post-install configuration of the open-source help desk ticketing system "osTicket".
 
-_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs)._
+_<b>NOTE:</b> This demonstration uses materials created in the previous demonstration, ["Prerequisites and Installation"](https://github.com/SeunOgun/osticket-prereqs)._
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,7 +32,7 @@ _<b>NOTE:</b> This demonstration uses materials created in the previous demonstr
 <h3>&#9312; Prerequisites and Installation</h3>
 
 _This demonstration assumes a virtual machine is established with the prerequisite files installed for working osTicket._ </br>
-_Credentials and configurations that will be used in this demonstration can be found in ["Prerequisites and Installation"](https://github.com/JTYKolesar/osticket-prereqs)._ </br>
+_Credentials and configurations that will be used in this demonstration can be found in ["Prerequisites and Installation"](https://github.com/SeunOgun/osticket-prereqs)._ </br>
 <hr>
 
 <h3>&#9313; Admin Panel - Roles, Departments, Teams, & Agents</h3>
@@ -214,6 +214,4 @@ _Help Topics will help streamline your end-user’s help desk experience to ensu
 
 <h2><p align=center>Next Demonstration:<br><a href="https://github.com/JTYKolesar/ticket-lifecycle">Ticket Lifecycle Examples</a></p></h2>
 
-<p align=right>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
-If you don't know how to, click <a href="https://github.com/JTYKolesar/azure-start/blob/main/README.md#bonus-delete-all-resources-in-azure">HERE</a>
-</p>
+<p align=center>DELETE **EVERYTHING!** IN AZURE TO SAVE CREDITS!<br>
